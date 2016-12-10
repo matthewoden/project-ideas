@@ -1,7 +1,6 @@
 # Project Ideas
 Rather than just tweeting ideas out to the void, I'll start keeping project ideas here.
 
----
 
 ## Small Projects
 
@@ -11,7 +10,7 @@ Simulate the Monty hall problem using MCMC. CLI?
 ### AWS - S3 Cloud drive (small?)
 CLI. Use a file watcher and the s3 sync tool to create a custom cloud drive in a bucket.
 
----
+
 
 ## Bigger Projects
 
@@ -38,10 +37,12 @@ Player view focuses on the current turn.
 UI Organizes by sessions -> encounters -> characters
 
 Each encounter has:
+
 1. A background image
 1. A list of characters.
 
 For each character:
+
 1. Track turn order
 1. Manage status conditions
 1. Manage notes.
