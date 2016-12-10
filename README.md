@@ -8,6 +8,9 @@ Rather than just tweeting ideas out to the void, I'll start keeping project idea
 ### MHMCMC
 Simulate the Monty hall problem using MCMC. CLI?
 
+### AWS - S3 Cloud drive (small?)
+CLI. Use a file watcher and the s3 sync tool to create a custom cloud drive in a bucket.
+
 ---
 
 ## Bigger Projects
