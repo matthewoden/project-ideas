@@ -11,8 +11,15 @@ Simulate the Monty hall problem using MCMC. CLI?
 CLI. Use a file watcher and the s3 sync tool to create a custom cloud drive in a bucket.
 
 
+## Bigger? Projects
 
-## Bigger Projects
+### Personal Finance Calculator
+A Multi-party, contribution calculator based on:
+- consistent-rate monthly fees
+- variable-rate monthly fees
+- percentage/share-based contributions
+
+Email out rates. Archive monthly results. Reuse figures based on configuration.
 
 ### KNN - Allergies
 I have bad allergies... sometimes. I'm allergic to Juniper pollen and something else.  Using [this resource](http://pollenandmold.stlouisco.com/Pollen_Day_Text.aspx), I can get daily pollen counts. With SMS, I could poll myself at noon every day, asking how I'm feeling (good/bad? 1-5?).
